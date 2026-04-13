@@ -5,7 +5,7 @@ Repo containing the codes of the paper "Assembly Theory Collapses to Dictionary 
 
 The contents of this repo are:
 
-a) AI-Calculation - Paper.ipynb : a Jupyter notebook containing codes for the calculations and figures of the paper;
+a) AI-Calculation - Paper.ipynb : a Jupyter notebook containing codes for the main calculations and figures of the paper;
 
 b) .csv files: original data from Marshall et al. (2021) Figures 3 and 4.
 
